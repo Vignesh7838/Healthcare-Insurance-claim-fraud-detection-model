@@ -1,4 +1,4 @@
-Health Insurance Fraud deduction
+Health Insurance Fraud detection Model
 Objective :   The primary goal of this model is to identify and flag fraudulent healthcare claims within a dataset of 10,000 records. Specifically, it aims to:
 
 •	Minimize Financial Loss: Detect "over-billing" or "phantom billing" where the Claim_Amount is significantly higher than the Approved_Amount.
